@@ -9,7 +9,7 @@ Nesse repositório vou armazenar as atividades que realizei no curo da alura. Du
 - O curso é voltado a testes E2E, porém alguns testes não serão feitos totalmente E2E, pois a intenção é eu ir aumentando o tamanho dos códigos e a expansão dos códigos até abranger tod o sistema.
 
 # Etapa 01 - Criando testes com Cypress
-- Branch: Atividades_01
+- Branch: Etapa_01
 
 Com o Cypress, escreva os códigos dos seguintes testes:
 
@@ -22,3 +22,17 @@ Com o Cypress, escreva os códigos dos seguintes testes:
 4 - Visite a página de /home do Adopet;
 
 5 - Visite a página de /home do AdoPet e clique no botão “Falar com o responsável”.
+
+# Etapa 02 - Automatizando cenários de testes
+
+- Branch: Etapa_02
+
+1 - Refatore os testes já realizados aplicando o método beforeEach().
+
+2 - Visite a página principal do AdoPet e verifique se o title com o texto “AdoPet” está presente no html.
+
+3 - Visite a página principal do AdoPet e verifique se o texto “Quem ama adota!” está presente no html.
+
+4 - Visite a página principal do AdoPet e verifique se o texto “Adotar pode mudar uma vida. Que tal buscar seu novo melhor amigo hoje? Vem com a gente!” está presente no html.
+
+5 - Teste o login com um fluxo diferente: Visite a página principal do Adopet, clique no botão de ícone de mensagem no header e escreva nome e senha válidos na página de login.
